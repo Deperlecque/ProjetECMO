@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.graphique {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 400px; /* Ajustez la largeur selon vos besoins */
+}
+
+h2 {
+    margin-top: 0;
+}
